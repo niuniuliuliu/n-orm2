@@ -1,0 +1,27 @@
+{
+  "name": "n-orm2",
+  "version": "0.1.0",
+  "description": "a nodejs orm framework ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mssql": "^4.0.4",
+    "mysql": "^2.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niuniuliuliu/n-orm2.git"
+  },
+  "keywords": [
+    "orm",
+    "nodejs"
+  ],
+  "author": "ck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niuniuliuliu/n-orm2/issues"
+  },
+  "homepage": "https://github.com/niuniuliuliu/n-orm2#readme"
+}

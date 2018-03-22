@@ -1,6 +1,6 @@
 {
   "name": "n-orm2",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "a nodejs orm framework ",
   "main": "index.js",
   "scripts": {
